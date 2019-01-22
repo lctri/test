@@ -7,4 +7,8 @@ public class Branch02 {
 
     }
 
+    public void test02() {
+
+    }
+
 }
