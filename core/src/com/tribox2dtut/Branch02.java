@@ -11,4 +11,8 @@ public class Branch02 {
 
     }
 
+    public void testBranch01() {
+
+    }
+
 }
