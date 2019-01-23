@@ -11,7 +11,7 @@ public class Branch02 {
 
     }
 
-    public void testBranch02() {
+    public void testBranch01() {
 
     }
 
